@@ -1,5 +1,6 @@
 #test_juggle_accel.py
 # added another comment
+# cheeseburgers are yummy
 
 import board
 import time
