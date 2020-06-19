@@ -2,6 +2,8 @@
 # added another comment
 # cheeseburgers are yummy
 
+# funny
+
 import board
 import time
 import math
